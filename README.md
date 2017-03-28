@@ -1,2 +1,10 @@
 # jackson-howard
-A Discrod BOT in development for my small Android:Netrunner Community
+A Discord BOT in development for my small **Android:Netrunner** Community
+
+## GETTING STARTED 
+
+## PREREQUISITES 
+
+## LICENSING 
+
+## Acknowledgments 
